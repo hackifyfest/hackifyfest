@@ -1,1 +1,1 @@
-### Welcome to the Junior Section of CTF Category 🚩
+### Welcome to the CTF Category of Junior Section 🚩
