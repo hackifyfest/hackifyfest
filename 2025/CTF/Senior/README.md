@@ -1,1 +1,1 @@
-### Welcome to the Senior Section of CTF Category 🚩
+### Welcome to the CTF Category of Senior Section 🚩
