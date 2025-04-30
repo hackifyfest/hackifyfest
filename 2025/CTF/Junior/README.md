@@ -1,1 +1,0 @@
-### Welcome to the CTF Section of Junior Category🚩

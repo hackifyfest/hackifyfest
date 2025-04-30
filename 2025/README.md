@@ -1,1 +1,0 @@
-<img src="./CTF/Medias/banner.png">
